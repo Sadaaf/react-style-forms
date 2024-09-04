@@ -1,5 +1,5 @@
 import React from "react";
-import UnControlledForm from "./forms/uncontrolled";
+// import UnControlledForm from "./forms/uncontrolled";
 import ControlledForm from "./split-form/index";
 
 class App extends React.Component {
