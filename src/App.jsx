@@ -4,6 +4,11 @@ import React from "react";
 import SignUpForm from "./signup-form";
 
 class App extends React.Component {
+
+  state={
+    users: []
+  }
+
   render() {
     return (
       <div>
