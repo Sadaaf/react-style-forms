@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# What is this repository?
+
+This repository contains only basic form elements used in react in different ways that will help understand how react works with forms.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
